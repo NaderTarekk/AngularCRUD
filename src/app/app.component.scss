@@ -1,0 +1,136 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+table {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.fontLow {
+    font-size: 16px;
+}
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+.container {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.pro {
+    width: 20px !important;
+}
+
+@media (max-width: 600px) {
+    p {
+        width: 50px !important;
+    }
+
+    table{
+        width: 100%;
+    }
+    .container {
+        max-width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+    }
+
+    .fontLow {
+        font-size: 9px;
+    }
+
+    .example-icon,
+    span,
+    .nav-btn {
+        font-size: 10px;
+    }
+    .f{
+        font-size: 14px;
+    }
+}
+
+
+
+.reduce{
+    width: 70px !important;
+    overflow-x: auto;
+  }
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  
+    table {
+      width: 100%;
+      margin: 0 auto;
+    }
+  
+  }
+  
+  @media (max-width: 720px) {
+    .container {
+      width: 100%;
+  
+      th,
+      td {
+        font-size: 10px;
+      }
+      mat-icon{
+        font-size: 15px;
+      }
+    }
+  
+    .mat-toolbar {
+      span {
+        font-size: 11px;
+      }
+    
+      button {
+        font-size: 10px;
+      }
+    }
+  }
+  
+  @media (max-width: 520px) {
+    .container {
+      width: 100%;
+  
+      th,
+      td {
+        font-size: 9px;
+        font-weight: 600;
+      }
+    }
+  }
+  @media (max-width: 420px) {
+    .container {
+      width: 100%;
+  
+      th,
+      td {
+        font-size: 7px;
+        font-weight: 600;
+      }
+    }
+  }
+  
+    td {
+      width: 10px !important;
+      overflow-x: hidden;
+    }
+  
+  
+  
+  
+  
+  
+  
+  

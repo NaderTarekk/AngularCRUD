@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "nader",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 41234,
+      "comment": "fgagbafasd",
+      "date": "2022-11-28T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "ahmeddd",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 76,
+      "comment": "hedh",
+      "date": "2022-11-22T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "hasda",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 412,
+      "comment": "55",
+      "date": "2022-11-21T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "414",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 414,
+      "comment": "4134",
+      "date": "2022-11-20T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "41tqe",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 421,
+      "comment": "7thgf",
+      "date": "2022-11-21T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "5135134",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 134,
+      "comment": "6y",
+      "date": "2022-11-27T22:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
